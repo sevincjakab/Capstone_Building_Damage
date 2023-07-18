@@ -27,7 +27,7 @@ Databases for pre-trained models (PDF 22-Image_Modeling):
 
 ### Colab Websites  
   
-- Marcels Test colab file with awesome Google modles from the second YouTube video [MyFirstGoogleJupyterNotebook.ipynb](https://colab.research.google.com/drive/1r8H0JAYAZ9H_bOyNORGeln4mPNNVq0kH?hl=en#scrollTo=0jbw_3IykIVQ)  
+- [MyFirstGoogleJupyterNotebook.ipynb](https://colab.research.google.com/drive/1r8H0JAYAZ9H_bOyNORGeln4mPNNVq0kH?hl=en#scrollTo=0jbw_3IykIVQ) Marcels Test colab file with awesome Google modles from the second YouTube video   
   
 - [**Start page - Welcome To Colaboratory**](https://colab.research.google.com/)  
   
