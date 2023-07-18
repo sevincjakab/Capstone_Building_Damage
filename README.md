@@ -110,3 +110,12 @@ There is no constraint between runs to have the same metadata tracked. I.e. for 
 - metrics.. should be numeric values as these can get plotted
 
 ![mlflow metadata](images/3_metadata.png)
+
+
+### How to Navigate in the Building_Damage-Capstone.ipynb
+
+- The sections are marked with markdown files with numbers 1, 2,3...
+
+- If we do not know what the code cell is doing yet, but we believe it is important for us, we left a markdown above that cell with '!Check what the following cell does'
+
+
