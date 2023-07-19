@@ -53,5 +53,7 @@ Moreover, GitHub can easiliy be connected to Colab, so that the file is saved to
 - [Price calculator](https://cloud.google.com/products/calculator#id=c0d8d56d-f2eb-4d05-ae79-1acb2c4e5195)  
 - MEDIUM article about VSCode connection to Google cloud: [How to get VS Code working with GCP](https://medium.com/@gratipine/how-to-get-vs-code-working-with-gcp-dd4c266e2d2)
 
-
+### __Baseline model Xview2 repo__  
+  
+[repo_baseline](https://github.com/DIUx-xView/xView2_baseline)  
   
