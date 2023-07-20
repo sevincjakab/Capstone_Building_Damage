@@ -71,4 +71,8 @@ Moreover, GitHub can easiliy be connected to Colab, so that the file is saved to
 ## __Basics of Semantic Segmentation and Models__
 
 [Basics of Semantic Segmentation](https://www.ibm.com/cloud/blog/the-xview2-ai-challenge)
+
+## __YouTube Video__
+
+[https://www.youtube.com/watch?v=JNjhKrwe-4k&t=362s](https://www.youtube.com/watch?v=JNjhKrwe-4k&t=362s)
   
