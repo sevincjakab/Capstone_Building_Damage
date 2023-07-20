@@ -1,11 +1,13 @@
-Trained model that was used for camping project: [https://huggingface.co/nvidia/mit-b0](https://huggingface.co/nvidia/mit-b0)
 
-Spoiler alert - IBM approach to our problem: [https://www.ibm.com/cloud/blog/the-xview2-ai-challenge](https://www.ibm.com/cloud/blog/the-xview2-ai-challenge)
+## __Spoiler alert - IBM approach to our problem__
+[IBM Solution](https://www.ibm.com/cloud/blog/the-xview2-ai-challenge](https://www.ibm.com/cloud/blog/the-xview2-ai-challenge)
+---
 
+## __Miro Board for Planning__
+[Milestones and Challenges Board](https://miro.com/app/board/uXjVM15w3VI=/#tpicker-content](https://miro.com/app/board/uXjVM15w3VI=/#tpicker-content)
+---
 
-Miro Board for Planning: [https://miro.com/app/board/uXjVM15w3VI=/#tpicker-content](https://miro.com/app/board/uXjVM15w3VI=/#tpicker-content)
-
-Databases for pre-trained models (PDF 22-Image_Modeling):
+## __Databases for pre-trained models (PDF 22-Image_Modeling)__
 
 1- [Tensor Flow Hub](https://www.tensorflow.org/hub)
 
@@ -21,6 +23,8 @@ Databases for pre-trained models (PDF 22-Image_Modeling):
 
 7- [Awesome Opensource List](https://awesomeopensource.com/projects/pretrained-models)
 
+  ### __Trained model that was used for camping project__
+ [Pre-trained model](https://huggingface.co/nvidia/mit-b0)
 
 ----
 ## __Google Colab__
@@ -52,10 +56,11 @@ Moreover, GitHub can easiliy be connected to Colab, so that the file is saved to
 - [300 USD Free Trial link](https://cloud.google.com/free)  
 - [Price calculator](https://cloud.google.com/products/calculator#id=c0d8d56d-f2eb-4d05-ae79-1acb2c4e5195)  
 - MEDIUM article about VSCode connection to Google cloud: [How to get VS Code working with GCP](https://medium.com/@gratipine/how-to-get-vs-code-working-with-gcp-dd4c266e2d2)
-
+---
 ## __Baseline model Xview2 repo__  
   
 [repo_baseline](https://github.com/DIUx-xView/xView2_baseline)  
+---
 
 ## __Basics of Semantic Segmentation and Models__
 
