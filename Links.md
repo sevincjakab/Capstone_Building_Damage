@@ -1,13 +1,13 @@
 
 ## __Spoiler alert - IBM approach to our problem__
 
-[IBM Solution](https://www.ibm.com/cloud/blog/the-xview2-ai-challenge](https://www.ibm.com/cloud/blog/the-xview2-ai-challenge)
+[IBM Solution](https://www.ibm.com/cloud/blog/the-xview2-ai-challenge)
 
 ---
 
 ## __Miro Board for Planning__
 
-[Milestones and Challenges Board](https://miro.com/app/board/uXjVM15w3VI=/#tpicker-content](https://miro.com/app/board/uXjVM15w3VI=/#tpicker-content)
+[Milestones and Challenges Board](https://miro.com/app/board/uXjVM15w3VI=/#tpicker-content)
 
 ---
 
