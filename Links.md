@@ -74,5 +74,6 @@ Moreover, GitHub can easiliy be connected to Colab, so that the file is saved to
 
 ## __YouTube Video__
 
-[https://www.youtube.com/watch?v=JNjhKrwe-4k&t=362s](https://www.youtube.com/watch?v=JNjhKrwe-4k&t=362s)
-  
+[How to manually segment and image and use for ML](https://www.youtube.com/watch?v=JNjhKrwe-4k&t=362s)
+
+[Transfer learning for Images](https://www.youtube.com/watch?v=-XeKG_T6tdc)
