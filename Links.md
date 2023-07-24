@@ -28,7 +28,19 @@
 7- [Awesome Opensource List](https://awesomeopensource.com/projects/pretrained-models)
 
   ### __Trained model that was used for camping project__
- [Pre-trained model](https://huggingface.co/nvidia/mit-b0)
+ [SegFormer mit-b0](https://huggingface.co/nvidia/mit-b0)
+
+
+## __Repo Links for Pretrained models__
+
+
+[MM Segmentation](https://github.com/open-mmlab/mmsegmentation/blob/v0.13.0/demo/MMSegmentation_Tutorial.ipynb)
+
+[SegFormer Original Repo](https://github.com/NVlabs/SegFormer)
+
+[SegFormer mitb5](https://huggingface.co/nvidia/mit-b5)
+
+[All SegFormer Hubs](https://huggingface.co/models?other=segformer)
 
 ----
 ## __Google Colab__
@@ -92,4 +104,5 @@ Moreover, GitHub can easiliy be connected to Colab, so that the file is saved to
 [Capstone Cloud](https://console.cloud.google.com/home/dashboard?project=capstone-disaster)
 
 ---
+
 
