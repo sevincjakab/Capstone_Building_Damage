@@ -72,8 +72,16 @@ Moreover, GitHub can easiliy be connected to Colab, so that the file is saved to
 
 [Basics of Semantic Segmentation](https://www.ibm.com/cloud/blog/the-xview2-ai-challenge)
 
-## __YouTube Video__
+---
+
+## __YouTube Videos__
 
 [How to manually segment an image and use for ML](https://www.youtube.com/watch?v=JNjhKrwe-4k&t=362s)
 
 [Transfer learning for Images on a small dataset](https://www.youtube.com/watch?v=-XeKG_T6tdc)
+
+---
+
+## __Options to Open json files easily__
+[Json Viewer](https://xml-json.kwebpia.net/?state=%7B%22ids%22:%5B%221Mj2srr9nVnj3_-BP2WkWkBdD3PH5qwKe%22%5D,%22action%22:%22open%22,%22resourceKeys%22:%7B%7D%7D)
+
