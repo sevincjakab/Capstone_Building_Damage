@@ -9,6 +9,9 @@
 
 [Milestones and Challenges Board](https://miro.com/app/board/uXjVM15w3VI=/#tpicker-content)
 
+## __Stakeholder presentation__
+[Capstone project - Building Damage](https://docs.google.com/presentation/d/1k8g7B9RvyG1z8CyUzrNGmsln3_nMvnbWk8uLTo4IOsA/edit#slide=id.g22333a3f516_0_0)
+
 ---
 
 ## __Databases for pre-trained models (PDF 22-Image_Modeling)__
