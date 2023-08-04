@@ -8,7 +8,7 @@
 ### 4. EDA.ipynb ---> it was called jsonconverter_g.ipynb
 ### 5. create_png_segmentation_mask.ipynb
 ### 6. create_png_classification_mask.ipynb
-### 7. EDA_from_tensors.ipynb
+### 7. EDA_from_tensors.ipynb (this will show examples from Nt #6)
 ### 8. subsetting_by_GB.ipynb
 ### 9. get_tensors_pre_post.ipynb
 ### 10. backup_functions.ipynb
