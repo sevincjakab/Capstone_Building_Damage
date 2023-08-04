@@ -1,3 +1,24 @@
+## Models
+
+### 1. stepwise_model_segmentation.ipynb
+### 2. stepwise_model_classification.ipynb
+### 3. one4all_model_segmentation_classification.ipynb
+
+## Tools
+### 4. EDA.ipynb ---> it was called jsonconverter_g.ipynb
+### 5. plot_mask_segmentation.ipynb
+### 6. plot_mask_classification.ipynb
+### 7. EDA_from_tensors.ipynb
+### 8. subsetting_by_GB.ipynb
+### 9. get_tensors_pre_post.ipynb
+### 10. backup_functions.ipynb
+
+## delete from the repo:
+### 1. masking_g.ipynb
+
+## rename in repo:
+### masking_building_plus_damage.ipynb ---> to 6
+### model_running.ipynb --> stepwise_model_template.ipynb
 # ds-modeling-pipeline
 
 Here you find a Skeleton project for building a simple model in a python script or notebook and log the results on MLFlow.
