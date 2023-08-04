@@ -2,12 +2,12 @@
 
 ### 1. stepwise_model_segmentation.ipynb
 ### 2. stepwise_model_classification.ipynb
-### 3. one4all_model_segmentation_classification.ipynb
+### 3. one4all_model_segmentation_classification.ipynb (we have a 2nd version called: model_running.ipynb). The difference between one4all and model_running is that one4all has a cell that attmepts to merge pre- and post-disaster images (tensor math), it does augmentation, it has the loss fnc plot, and shows the 'num' of images with 'show_üredictions' function. 
 
 ## Tools
 ### 4. EDA.ipynb ---> it was called jsonconverter_g.ipynb
-### 5. plot_mask_segmentation.ipynb
-### 6. plot_mask_classification.ipynb
+### 5. create_png_segmentation_mask.ipynb
+### 6. create_png_classification_mask.ipynb
 ### 7. EDA_from_tensors.ipynb
 ### 8. subsetting_by_GB.ipynb
 ### 9. get_tensors_pre_post.ipynb
