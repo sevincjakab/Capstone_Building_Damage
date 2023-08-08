@@ -31,6 +31,10 @@ This nt accepts images and masks as png files (in 2 different folders as inputs)
 Requires A FOLDER THAT CONTAINS THE DATA DIVIDED BY DISASTERS, IN EACH DISASTER FOLDER THERE ARE "IMAGES" (PNG FILES) AND "LABELS" FOLDERS (JSON FILES).
 ### 10. backup_functions.ipynb
 
+## Inferences
+
+### 11. inference_stepwise_classification.ipynb
+This will load the model that is already trained on our own dataset (a subset of the xView2 dataset for challenge) and make predictions. It will calculate pixelwise F1 score. 
 ## delete from the repo:
 ### 1. masking_g.ipynb (done)
 
