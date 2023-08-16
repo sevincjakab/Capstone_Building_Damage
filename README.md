@@ -9,12 +9,8 @@
 1. Run create_png_classification_mask.ipynb (not sure if we really need that since next step uses json files)
 2. Run get_tensors_pre_post 
 3. Use the output .npz file for this Nt.
-### 3.1. one4all_model_segmentation_classification.ipynb. 
-(This notebook is currently not working due to failure of tensor math.)One has to run create_png_classification_mask.ipynb before running this notebook.
-This nt takes a folder that is split by disasters (each has images and category masks) and convert them to arrays and applies SegFormer model. (we have an earlier version of that Nt called: model_running.ipynb).
-The difference between one4all and model_running is that one4all has a cell that attempts to merge pre- and post-disaster images (tensor math), it does augmentation, it has the loss fnc plot, and shows the 'num' of images with 'show_predictions' function. 
 
-### 3.2 model_running 
+### 3. model_running 
 This nt accepts images and masks as png files (in 2 different folders as inputs)
 
 ## Tools
