@@ -1,17 +1,10 @@
 ## Models
 
-### 1. stepwise_model_segmentation.ipynb. 
-1. Run mask_polygons.py to get binary masks (not sure if we really need that since next step uses json files)
-2. Run get_tensors_pre_post.ipynb 
-3. Use the output .npz file for this Nt.
+### 1. stepwise_model_segmentation.ipynb
+Uses the output tensors in npz format (pre-disaster) from "get_tensors_pre_post" to perform segmentation (identifying buildings).
 
 ### 2. stepwise_model_classification.ipynb. 
-1. Run create_png_classification_mask.ipynb (not sure if we really need that since next step uses json files)
-2. Run get_tensors_pre_post 
-3. Use the output .npz file for this Nt.
-
-### 3. model_running 
-This nt accepts images and masks as png files (in 2 different folders as inputs)
+Uses the output tensors in npz format (post-disaster) from "get_tensors_pre_post" to perform damage classification.
 
 ## Tools
 ### 4. EDA.ipynb ---> it was called jsonconverter_g.ipynb 
