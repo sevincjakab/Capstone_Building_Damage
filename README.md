@@ -17,6 +17,7 @@ See more details of the project on __[our Capstone Presentation](./Building_Dama
 
 ### ---------------------------------------------------------------
 ## **Files in this repository**
+All Jupyter notebooks (*.ipynb) are in notebooks folder.
 ### **Models**
 
 ### 1. stepwise_model_segmentation.ipynb
