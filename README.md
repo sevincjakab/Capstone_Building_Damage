@@ -26,6 +26,30 @@ Uses the output tensors in npz format (pre-disaster) from "get_tensors_pre_post.
 ### 2. stepwise_model_classification.ipynb
 Uses the output tensors in npz format (post-disaster) from "get_tensors_pre_post.ipynb" to perform damage classification.
 
+A **python script** to run segformer semantic segmentation pre-trained model is in **./models/segformer_classification.py**. 
+
+**Usage:**
+```
+segformer_classification.py [--batchsize BATCHSIZE] [--epoch EPOCH] [--augm]  npz_post_file  model_name
+
+positional arguments:
+
+npz_post_file        tensors from post disaster images and masks created with "get_tensors_pre_post.ipynb"   
+
+model_name           identifier of running configuration. Used to save model output.
+
+optional arguments:
+
+--epoch EPOCH, -e EPOCH
+        Number of sweeps over the dataset to train
+
+--batchsize BATCHSIZE, -b BATCHSIZE
+        Number of images in each mini-batch
+
+--augm , -a
+        If chosen applies augmentation techniques (edit script to chose which augmentation transformations are applied)
+```
+
 ### **Tools**
 ### 3. EDA_dataset.ipynb 
 Have a first look at the dataset. This notebook contains useful functions to extract information contained in JSON format.
@@ -33,12 +57,14 @@ Have a first look at the dataset. This notebook contains useful functions to ext
 Notebook to create png masks showing buildings (white) and background (black).
 ### 5. create_png_classification_mask.ipynb
 Notebook to create png masks showing damage to buildings in the colours chosen for this project assigned to the 5 different categories (see nb for full details on the damage scale).
-
-
-
 ### 6. EDA_from_tensors.ipynb 
-(this will show examples from Nt #6)
-### 7. subsetting_by_GB.ipynb
+Give a look to your dataset, plot particular image-mask pairs and visualize data distributions using npz files created in "get_tensors_pre_post.ipynb" notebook.
+### 7. create_subset.ipynb
+Create a subset from xView2 challenge dataset based on selected maximum size (in gb).
+
+
+
+
 ### 8. get_tensors_pre_post.ipynb
 
 Requires A FOLDER THAT CONTAINS THE DATA DIVIDED BY DISASTERS, IN EACH DISASTER FOLDER THERE ARE "IMAGES" (PNG FILES) AND "LABELS" FOLDERS (JSON FILES).
