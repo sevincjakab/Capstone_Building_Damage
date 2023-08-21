@@ -26,7 +26,7 @@ Uses the output tensors in npz format (pre-disaster) from "get_tensors_pre_post.
 ### 2. stepwise_model_classification.ipynb
 Uses the output tensors in npz format (post-disaster) from "get_tensors_pre_post.ipynb" to perform damage classification.
 
-A **python script** to run segformer semantic segmentation pre-trained model is in **./models/segformer_classification.py**. 
+A **python script** to run segformer semantic segmentation pre-trained model is **segformer_classification.py**. 
 
 **Usage:**
 ```
