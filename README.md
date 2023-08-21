@@ -60,21 +60,15 @@ Notebook to create png masks showing damage to buildings in the colours chosen f
 Give a look to your dataset, plot particular image-mask pairs and visualize data distributions using npz files created in "get_tensors_pre_post.ipynb" notebook.
 ### 7. create_subset.ipynb
 Create a subset from xView2 challenge dataset based on selected maximum size (in gb).
-
-
-
-
+This notebook creates tensors stores in npy format, to use in my of the notebooks of this repository. It requires a folder containing the data divided by disaster. In each disaster folder there are the directories: images (png files) and labels (json files).  
 ### 8. get_tensors_pre_post.ipynb
-
-Requires A FOLDER THAT CONTAINS THE DATA DIVIDED BY DISASTERS, IN EACH DISASTER FOLDER THERE ARE "IMAGES" (PNG FILES) AND "LABELS" FOLDERS (JSON FILES).
-### 9. backup_functions.ipynb
-
-## Inferences
-
-### 10. inference_stepwise_classification.ipynb
-This will load the model that is already trained on our own dataset (a subset of the xView2 dataset for challenge) and make predictions. It will calculate pixelwise F1 score. 
-
-
+This notebook creates pre- and post-tensors containing images, masks and other information relevant to the disaster obtained from JSON files.
+### 9. evaluation_stepwise_classification.ipynb
+Notebook to get an estimation of the performance of SegFormer on the damage classification task. It includes a pixelwise F1 score estimation by class and displays image-mask-prediction figures. 
+### 10. inference.ipynb
+This notebook allows you to see post-disaster images and predicted damage masks for any new dataset. It uses a saved version of the model created by "stepwise_model_classification.ipynb", in this case already trained on our own dataset (a subset of the xView2 dataset for challenge).
+## Evaluation
+The "evaluation_notebooks" directory in notebooks folder contains several evaluation_stepwise_classification.ipynb notebooks separated by disaster.
 
 ## Requirements
 
